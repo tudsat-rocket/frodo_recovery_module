@@ -1,5 +1,4 @@
-EURoC Flight Computer
-=====================
+# Frodo Recovery Module
 
 # Setup
 
