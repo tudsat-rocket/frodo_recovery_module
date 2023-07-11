@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/MAX30207CLB-T/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints2")(type "KiCad")(uri "${KIPRJMOD}/ul_INA350ABSIDSGR/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
